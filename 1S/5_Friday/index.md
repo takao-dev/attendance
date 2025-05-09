@@ -1,8 +1,8 @@
 ## 月曜日
 ### 1・2限
-#### スポーツ科学 - サッカー
-教室 5101  
-[出席](https://attendance.is.it-chiba.ac.jp/attendance/class_room/5101){:target="_blank"}
+#### 高度応用情報概論
+教室 7103  
+[出席](https://attendance.is.it-chiba.ac.jp/attendance/class_room/7103){:target="_blank"}
 ### 3・4限
 #### 英語理解
 教室 5204  
