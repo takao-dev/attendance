@@ -9,5 +9,5 @@
 [出席](https://attendance.is.it-chiba.ac.jp/attendance/class_room/7204){:target="_blank"}
 ### 6・7限
 #### 初年次教育
-教室 7202  
-[出席](https://attendance.is.it-chiba.ac.jp/attendance/class_room/7202){:target="_blank"}
+教室 4201  
+[出席](https://attendance.is.it-chiba.ac.jp/attendance/class_room/4201){:target="_blank"}
